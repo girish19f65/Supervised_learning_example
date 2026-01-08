@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+C1,Male,0,1,70,70,Month-to-month,Electronic check,Yes
+C2,Female,1,5,80,400,One year,Mailed check,No
+C3,Male,0,10,60,600,Two year,Credit card,No
+C4,Female,1,2,90,180,Month-to-month,Bank transfer,Yes
+C5,Male,0,20,40,800,Month-to-month,Electronic check,Yes
+C6,Female,1,15,50,750,One year,Mailed check,No
+C7,Male,0,3,85,255,Two year,Credit card,No
+C8,Female,1,8,75,600,Month-to-month,Bank transfer,Yes
+C9,Male,0,30,30,900,Month-to-month,Electronic check,Yes
+C10,Female,1,25,45,1100,One year,Mailed check,No
+C11,Male,0,12,65,780,Two year,Credit card,No
+C12,Female,1,6,95,570,Month-to-month,Bank transfer,Yes
+C13,Male,0,40,25,1000,Month-to-month,Electronic check,Yes
+C14,Female,1,18,55,990,One year,Mailed check,No
+C15,Male,0,7,88,616,Two year,Credit card,No
+C16,Female,1,22,42,924,Month-to-month,Bank transfer,Yes
+C17,Male,0,9,78,702,Month-to-month,Electronic check,Yes
+C18,Female,1,14,58,812,One year,Mailed check,No
+C19,Male,0,35,35,1225,Two year,Credit card,No
+C20,Female,1,4,92,368,Month-to-month,Bank transfer,Yes
